@@ -107,12 +107,13 @@ text-align:center;
 </style>
 <script>
 window.addEventListener("contextmenu",function(e){e.preventDefault();},false);
-function OSC(){var t = navigator.platform; if(t.charAt(0) == "L"){location.replace("https://vv-1757.github.io/Shinchan-Movies/Movie 1/Shinchan-Movie1-Download-Mobile.html");}else if(t.charAt(0) == "W" || "M"){location.replace("https://vv-1757.github.io/Shinchan-Movies/Movie%201/Shinchan-Movie1-Download.html")}}
-  OSC();
+function OSC(){var t = navigator.platform; if(t.charAt(0) == "L"){window.location = "https://vv-1757.github.io/Shinchan-Movies/Movie 1/Shinchan-Movie1-Download-Mobile.html";}
+else if(t.charAt(0) == "W"){window.location = "https://vv-1757.github.io/Shinchan-Movies/Movie%201/Shinchan-Movie1-Download.html";}
+              else if(t.charAt(0) == "M"){window.location = "https://vv-1757.github.io/Shinchan-Movies/Movie%201/Shinchan-Movie1-Download.html";}}
 
 
 </script>
-<body>
+<body onload="OSC()">
 <center><img src="https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-1.jpg" width="320" height="420" draggable="false"></center>
 <div id="Shinchan-Movie-1">
 <b>Movie Name:</b><code id="Name"> Crayon Shin-chan: Action Mask vs. Leotard Devil</code><br/><br/>
