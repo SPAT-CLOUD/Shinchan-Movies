@@ -137,10 +137,12 @@ text-align:center;
 </style>
 <script>
 window.addEventListener("contextmenu",function(e){e.preventDefault();},false);
-document.onkeydown = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123){return false;}};
-  document.onkeyup = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123){return false;}};
-  document.onkeypress = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123){return false;}};
-  document.onmouseover = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123){return false;}};
+document.onkeydown = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123 || e.keyCode === 44 || e.keyCode === 91 || e.keyCode === 172 || e.keyCode === 173 || e.keyCode === 174 || e.keyCode === 175){return false;}};
+  document.onkeypress = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123 || e.keyCode === 44 || e.keyCode === 91 || e.keyCode === 172 || e.keyCode === 173 || e.keyCode === 174 || e.keyCode === 175){return false;}};
+  document.onkeyup = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123 || e.keyCode === 44 || e.keyCode === 91 || e.keyCode === 172 || e.keyCode === 173 || e.keyCode === 174 || e.keyCode === 175){return false;}};
+  document.onmouseup = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123 || e.keyCode === 44 || e.keyCode === 91 || e.keyCode === 172 || e.keyCode === 173 || e.keyCode === 174 || e.keyCode === 175){return false;}};
+  document.onmouseover = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123 || e.keyCode === 44 || e.keyCode === 91 || e.keyCode === 172 || e.keyCode === 173 || e.keyCode === 174 || e.keyCode === 175){return false;}};
+  document.onmouseout = function(e){if(e.ctrlKey || e.shiftKey || e.keyCode === 123 || e.keyCode === 44 || e.keyCode === 91 || e.keyCode === 172 || e.keyCode === 173 || e.keyCode === 174 || e.keyCode === 175){return false;}};
 </script>
 <body onload="B()">
 <center><img src="https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-1.jpg" width="320" height="420" draggable="false"></center>
