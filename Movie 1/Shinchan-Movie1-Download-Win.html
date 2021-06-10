@@ -136,7 +136,7 @@ text-align:center;
 }
 </style>
 <script>
-  document.onload = function(){HDisableKeys()};
+  document.onkeydown = function(){HDisableKeys()};
 window.addEventListener("contextmenu",function(e){e.preventDefault();},false);
   document.onkeydown = function(e){if(e.ctrlKey && e.keyCode === 70){HPermission("This Site Wants To Show In Fullscreen");return false;}};
 HCallOnce("HAlertBox('Tip:To View In Fullscreen Press CTRL+F')" , 6);
