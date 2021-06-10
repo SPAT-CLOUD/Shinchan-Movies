@@ -136,10 +136,10 @@ text-align:center;
 }
 </style>
 <script>
-  document.onkeydown = function(){HDisableKeys()};
 window.addEventListener("contextmenu",function(e){e.preventDefault();},false);
   document.onkeydown = function(e){if(e.ctrlKey && e.keyCode === 70){HPermission("This Site Wants To Show In Fullscreen");return false;}};
 HCallOnce("HAlertBox('Tip:To View In Fullscreen Press CTRL+F')" , 6);
+  HDisableKeys();
   </script>
 <body onload="B()">
 <center><img src="https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-1.jpg" width="320" height="420" draggable="false"></center>
