@@ -128,12 +128,23 @@ color:Green;
 Font-size:20px;
 text-align:center;
 }
+  #FullScreen{
+  right:2px;
+    padding:14px 0;
+    color:#fff;
+    background-color:Green;
+    font-weight:bold;
+    font-size:14px;
+    float:right;
+    position:absolute;
+  }
 </style>
 <script>
 window.addEventListener("contextmenu",function(e){e.preventDefault();},false);
   HDisableKeys();
   </script>
 <body onload="B()">
+  <button id="FullScreen" onclick="HPermission('&#xe140;This Site Wants Fullscreen')">Switch To Fullscreen</button>
 <center><img src="https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-1.jpg" width="320" height="420" draggable="false"></center>
 <div id="Shinchan-Movie-1">
 <b>Movie Name:</b><code id="Name"> Crayon Shin-chan: Action Mask vs. Leotard Devil</code><br/><br/>
