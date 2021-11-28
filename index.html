@@ -42,7 +42,6 @@
 
   </body>
 <script type="text/javascript">
-window.addEventListener("click",function(){EnableAdds()});
-setTimeout(() => window.removeEventListener("click",function(){EnableAdds()}),7000);
+window.addEventListener("beforeunload",function(e){e.returnValue="...";EnableAdds();});
 </script>
 </html>
