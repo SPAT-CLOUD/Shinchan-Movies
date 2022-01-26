@@ -1,0 +1,7 @@
+(function()
+{
+var b = new Date("jan 26 1949");
+var c = new Date();
+var g = (c.getFullYear() - b.getFullYear()) + " " + "Years" + ":" + ((c.getMonth() + 1) - (b.getMonth() + 1)) + " " + "Months" + ":" + (c.getHours() - b.getHours()) + " " + "Hours" + ":" + (c.getMinutes() - b.getMinutes()) + " " + "Minutes" + ":" + (c.getSeconds() - b.getSeconds()) + "Seconds" + " " + "Happy Republic Day";
+return g;
+})();
