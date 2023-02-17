@@ -1,3 +1,28 @@
+/*
+ * Copyright ©️ 2023 SonPanAbTej SPAT
+ * This is for Reduction of Code
+ * Powered by SonPanAbTej SPAT
+ * Template
+ * "Mov2":{
+           "Thumb":"",
+           "TI":"",
+           "SS":[],
+           "Name":"",
+           "Transcript":"",
+           "ORG_N":"",
+           "RDIJ":"",
+           "DUR":"",
+           "Prod":"",
+           "BoxOff":"",
+           "RIIN":"",
+           "MIIN":"",
+           "LeadChar":"",
+           "MSize":"",
+           "MRes":"",
+           "MLang":"",
+           "MSub":""
+    }
+*/
 var SHINCHAN_MOVIES={
 "Mov":{
 "Mov1":
@@ -20,6 +45,138 @@ var SHINCHAN_MOVIES={
 "MLang":"Tamil",
 "MSub":"Yes"
 },
-"Mov2":{}
+"Mov2":{
+"Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-2.jpg",
+"TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-2.jpg",
+"SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie-2-Japanese EnglisSub/Shinchan Movie-2-Japanese English Sub Screenshoot-1.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-2.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-3.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-4.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-5.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-6.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-7.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-8.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-9.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-10.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-11.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-12.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-13.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-14.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-15.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-16.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Japanese%20EnglisSub/Shinchan%20Movie-2-Japanese%20English%20Sub%20Screenshoot-17.png"],
+"Name":"Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+"Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x30D6&#x30EA&#x30D6&#x30EA&#x738B&#x56FD&#x306E&#x79D8&#x5B9D",
+"ORG_N":"Kureyon Shinchan: Buriburi Ōkoku no Hihō",
+"RDIJ":"April 23, 1994",
+"DUR":"1H:33M",
+"Prod":"Shin-El Animation",
+"BoxOff":"¥2.06 billion",
+"RIIN":"17 October 2009",
+"MIIN":"Shinchan and the Treasures of the Buri Buri Kingdom",
+"LeadChar":"Shinnosuke Nohara,Misae Nohara,Hiroshi Nohara,Midori Yoshinaga,Toru Kazama,Nene Sakurada,Bo Suzuki,Mrs. Kitamoto (Aunt next door),Anaconda,Mister Hub,Buriburi Majin,Kuro Majin,Nina,Sally,Captain,Takumi Yamazaki, Hirohiko Kakegawa,  ,Guards,Director,King,Ruru Ru Ruru,Child Colander,Prince Sunnokeshi,Etsuko Komiya",
+"MSize":"282,381,517 bytes",
+"MRes":"N/A",
+"MLang":"Japanese",
+"MSub":"Yes"
+},
+"Mov2_T":{
+"Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-2.jpg",
+"TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan Movie Thumbnails/Shinchan-Movie-2.jpg",
+"SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-1.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-2.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-3.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-4.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-5.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-6.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-7.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-8.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-9.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-10.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-2-Telugu/Shinchan-Movie-2-Telugu-Screenshoot-11.png"],
+"Name":"Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+"Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x30D6&#x30EA&#x30D6&#x30EA&#x738B&#x56FD&#x306E&#x79D8&#x5B9D",
+"ORG_N":"Kureyon Shinchan: Buriburi Ōkoku no Hihō",
+"RDIJ":"April 23, 1994",
+"DUR":"1H:33M",
+"Prod":"Shin-El Animation",
+"BoxOff":"¥2.06 billion",
+"RIIN":"17 October 2009",
+"MIIN":"Shinchan and the Treasures of the Buri Buri Kingdom",
+"LeadChar":"Shinnosuke Nohara,Misae Nohara,Hiroshi Nohara,Midori Yoshinaga,Toru Kazama,Nene Sakurada,Bo Suzuki,Mrs. Kitamoto (Aunt next door),Anaconda,Mister Hub,Buriburi Majin,Kuro Majin,Nina,Sally,Captain,Takumi Yamazaki, Hirohiko Kakegawa ,Guards,Director,King,Ruru Ru Ruru,Child Colander,Prince Sunnokeshi,Etsuko Komiya",
+"MSize":"370,776,474 bytes",
+"MRes":"N/A",
+"MLang":"Telugu",
+"MSub":"No"
+},
+ "Mov20":{
+           "Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(13).png",
+           "TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(13).png",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(13).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(1).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(2).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(3).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(4).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(5).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(6).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(7).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(8).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(9).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(10).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(11).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20movie-20%20Japanese%20english%20Sub/Shinchan%20Movie-20%20Japanese%20English%20Sub%20Screenshot%20(12).png"],
+           "Name":"Crayon Shin-chan: Fierceness That Invites Storm! Me and the Space Princess",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x5D50&#x3092&#x547C&#x3076&#x21&#x30AA&#x30E9&#x3068&#x5B87&#x5B99&#x306E&#x30D7&#x30EA&#x30F3&#x30BB&#x30B9",
+           "ORG_N":"Crayon Shin-chan: Arashi o Yobu! Ora to Uchū no Princess",
+           "RDIJ":"April 14, 2012",
+           "DUR":"1H:51M",
+           "Prod":"Shin-El Animation",
+           "BoxOff":"$15,782,573",
+           "RIIN":"22 March 2014",
+           "MIIN":"Shin Chan The Movie Himawari Banegi Rajkumari",
+           "LeadChar":"N/A",
+           "MSize":"1,191,853,425 bytes",
+           "MRes":"1080p Quality",
+           "MLang":"Japanese",
+           "MSub":"Yes"
+    },
+ "Mov20_T":{
+           "Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(15).png",
+           "TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(15).png",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(15).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(1).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(2).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(3).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(4).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(5).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(6).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(7).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(8).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(9).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(10).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(11).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(12).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(13).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2020%20Telugu%20no%20sub/Shinchan%20Movie-20%20Telugu%20NoSub%20Screenshot%20(14).png"],
+           "Name":"Crayon Shin-chan: Fierceness That Invites Storm! Me and the Space Princess",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x5D50&#x3092&#x547C&#x3076&#x21&#x30AA&#x30E9&#x3068&#x5B87&#x5B99&#x306E&#x30D7&#x30EA&#x30F3&#x30BB&#x30B9",
+           "ORG_N":"Crayon Shin-chan: Arashi o Yobu! Ora to Uchū no Princess",
+           "RDIJ":"April 14, 2012",
+           "DUR":"1H:51M",
+           "Prod":"Shin-El Animation",
+           "BoxOff":"$15,782,573",
+           "RIIN":"22 March 2014",
+           "MIIN":"Shin Chan The Movie Himawari Banegi Rajkumari",
+           "LeadChar":"N/A",
+           "MSize":"505,833,062 bytes",
+           "MRes":"N/A",
+           "MLang":"Telugu",
+           "MSub":"No"
+    },
+ "Mov4_T":{
+           "Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-1.png",
+           "TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-1.png",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-1.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-2.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-3.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-4.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-5.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-6.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-7.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-8.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-9.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-10.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-11.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-12.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-13.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-14.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-15.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-16.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-17.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-18.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-19.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-20.png"],
+           "Name":"Crayon Shin-chan: Great Adventure in Henderland",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x30D8&#x30F3&#x30C0&#x30FC&#x30E9&#x30F3&#x30C9&#x306E&#x5927&#x5192&#x967A",
+           "ORG_N":"Kureyon Shin-chan: Hendārando no Dai Bōken",
+           "RDIJ":"April 19, 1996",
+           "DUR":"1H:37M",
+           "Prod":"Shin-El Animation,TV Ashai,ADK",
+           "BoxOff":"¥1.2 billion ($9.4 million)",
+           "RIIN":"18 December 2011",
+           "MIIN":"Shin Chan Movie: Adventures In Henderland",
+           "LeadChar":"N/A",
+           "MSize":"705,691,648 bytes",
+           "MRes":"N/A",
+           "MLang":"Telugu at Uncensored in Japanese",
+           "MSub":"No"
+    },
+ "Mov11_Ta":{
+           "Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-1.png",
+           "TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-1.png",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-1.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-2.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-3.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-4.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-5.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-6.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-7.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-8.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-9.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-10.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-11.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-12.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-13.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-14.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-15.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie-11%20Tamil%20English%20Sub/Shinchan%20Movie-11%20Tamil%20English%20Sub%20Screenshoot-16.png"],
+           "Name":"Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Glory",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x5D50&#x3092&#x547C&#x3076&#x20&#x6804&#x5149&#x306E&#x30E4&#x30AD&#x30CB&#x30AF&#x30ED&#x30FC&#x30C9",
+           "ORG_N":"Kureyon Shin-chan: Arashi o Yobu: Eikō no Yakiniku Rōdo",
+           "RDIJ":"19 April 2003",
+           "DUR":"1H:28M",
+           "Prod":"Shin-El Animation",
+           "BoxOff":"N/A",
+           "RIIN":"21 June 2014",
+           "MIIN":"Shin Chan Masala Story The Movie",
+           "LeadChar":"N/A",
+           "MSize":"501,848,473 bytes",
+           "MRes":"N/A",
+           "MLang":"Tamil",
+           "MSub":"Yes"
+    },
+ "Mov22":{
+           "Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(1).png",
+           "TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(1).png",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(1).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(2).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(3).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(4).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(5).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(6).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(7).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(8).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(9).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(10).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(11).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(12).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(13).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%2022%20Japanese%20English%20sub/Shinchan%20Movie%2022%20Japanese%20English%20Sub%20Screenshot%20(14).png"],
+           "Name":"Crayon Shin-chan: Intense Battle! Robo Dad Strikes Back",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x30AC&#x30C1&#x30F3&#x30B3&#x21&#x9006&#x8972&#x306E&#x30ED&#x30DC&#x20&#x3068&#x30FC&#x3061&#x3083&#x3093",
+           "ORG_N":"Kureyon Shin-chan: Gachinko! Gyakushu no Robo To-chan",
+           "RDIJ":"19 April 2014",
+           "DUR":"1H:37M",
+           "Prod":"Shin-El Animation",
+           "BoxOff":"¥1,820,708,58",
+           "RIIN":"24 October 2015",
+           "MIIN":"Shin Chan Movie: Robot Dad ",
+           "LeadChar":"N/A",
+           "MSize":"N/A",
+           "MRes":"N/A",
+           "MLang":"Japanese",
+           "MSub":"Yes"
+    }
 }
 }
