@@ -1,0 +1,20 @@
+
+<script> let base64String = ""; function imageUploaded() {
+var file = document.querySelector('input[type=file]')['files'][0];
+var reader = new FileReader();
+        console.log("next");
+reader.onload = function () {base64String = reader.result.replace("data:", "").replace(/^.+,/, "");imageBase64Stringsep = base64String;
+        }
+      reader.readAsDataURL(file);
+    }
+    function displayString() {
+        console.log("Base64String about to be printed");
+      document.getElementById('4').value= base64String;
+document.getElementById('k').src="data:image/jpeg;base64," + base64String;
+    }
+</script>
+<input type="file" name="" id="fileId" onchange="imageUploaded()">
+<br><br>
+<button onclick="displayString()">Display String</button><br><br>
+<textarea rows="10" cols="20" id="4"></textarea><br><br>
+<img src="https://spat-cloud.github.io/data/DORAEMON1.png" width="100" height="122" alt="default.jpg" id="k">
