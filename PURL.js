@@ -177,6 +177,44 @@ var SHINCHAN_MOVIES={
            "MRes":"N/A",
            "MLang":"Japanese",
            "MSub":"Yes"
+    },
+"Mov21_Ta":{
+           "Thumb":"https://en.m.wikipedia.org/wiki/File:Poster_for_the_21st_movie_of_crayon_shinchan_in_2013.jpg",
+           "TI":"https://en.m.wikipedia.org/wiki/File:Poster_for_the_21st_movie_of_crayon_shinchan_in_2013.jpg",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(1).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(2).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(3).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(4).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(5).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(6).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(7).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(8).png","https://vv-1757.github.io/Shinchan-Movies/Shinchan%20MOvie%2021%20Tamil%20NSub/Shinchan%20movie%2021%20Tamil%20NSUb%20Screenshot%20(9).png"],
+           "Name":"Crayon Shin-chan: Very Tasty! B-class Gourmet Survival",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x3A&#x20&#x30D0&#x30AB&#x3046&#x307E&#x3063&#xFF01&#x20&#xFF22&#x7D1A&#x30B0&#x30EB&#x30E1&#x30B5&#x30D0&#x30A4&#x30D0&#x30EB&#xFF01&#xFF01",
+           "ORG_N":"Kureyon Shinchan: bakauma！B-kyū gurume sabaibaru!!",
+           "RDIJ":"April 20, 2013",
+           "DUR":"1H:36M",
+           "Prod":"Shin-El Animation",
+           "BoxOff":"US$14.7 million (Japan)",
+           "RIIN":"19 July 2014",
+           "MIIN":"Shin Chan in Very Very Tasty Tasty.",
+           "LeadChar":"N/A",
+           "MSize":"N/A",
+           "MRes":"N/A",
+           "MLang":"Tamil",
+           "MSub":"No"
+    },
+"Mov4_T":{
+           "Thumb":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%20Thumbnails/Shinchan-Movie-4.jpg",
+           "TI":"https://vv-1757.github.io/Shinchan-Movies/Shinchan%20Movie%20Thumbnails/Shinchan-Movie-4.jpg",
+           "SS":["https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-1.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-2.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-3.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-4.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-5.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-6.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-7.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-8.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-9.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-10.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-11.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-12.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-13.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-14.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-15.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-16.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-17.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-18.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-19.png","https://vv-1757.github.io/Shinchan-Movies/Shinchan-Movie-4-Telugu%20Nosub/Shinchan-Movie-4-Telugu%20NoSub%20Screenshoot-20.png"],
+           "Name":"Crayon Shin-chan: Great Adventure in Henderland",
+           "Transcript":"&#x30AF&#x30EC&#x30E8&#x30F3&#x3057&#x3093&#x3061&#x3083&#x3093&#x20&#x30D8&#x30F3&#x30C0&#x30FC&#x30E9&#x30F3&#x30C9&#x306E&#x5927&#x5192&#x967A",
+           "ORG_N":"Kureyon Shin-chan: Hendārando no Dai Bōken",
+           "RDIJ":"April 19, 1996",
+           "DUR":"1h:37m",
+           "Prod":"Shin-El Animation, TV Ashai, ADK",
+           "BoxOff":"¥1.2 billion ($9.4 million)",
+           "RIIN":"18 December 2011 ",
+           "MIIN":"Shinchan the Movie: Adventures in Henderland",
+           "LeadChar":"",
+           "MSize":"N/A",
+           "MRes":"N/A",
+           "MLang":"Telugu",
+           "MSub":"No"
     }
 }
 }
