@@ -211,7 +211,7 @@ var SHINCHAN_MOVIES={
            "RIIN":"18 December 2011 ",
            "MIIN":"Shinchan the Movie: Adventures in Henderland",
            "LeadChar":"",
-           "MSize":"N/A",
+           "MSize":"N/A bytes",
            "MRes":"N/A",
            "MLang":"Telugu",
            "MSub":"No"
