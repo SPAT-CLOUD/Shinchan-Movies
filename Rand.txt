@@ -1,2 +1,7 @@
 https://m.youtube.com/watch?v=-2N6KyEADyM&list=PLq1NXX0Df7NdJgOl3PUnF1deYoX7c2RP_&index=32
 https://m.youtube.com/watch?v=dki9O7HMqNs
+
+new IGAcc()
+setName('UnHaVa');
+//Hint: 😉 Ur Lv Name Front.upper, Second.lower,Skip>>3rdL>>4rthL,next->low,skip>>next,next,last.low concatenation'@' + (2**8).toString().rev() + (3).toString(2)'end'
+setPwd('xEzMyAUbshGV');
